@@ -1,5 +1,5 @@
 # todo-app
-##What does To Do App do ?
+##Description
 
     It helps you to organize your task.
     One can list out tasks that they want to complete.
