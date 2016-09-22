@@ -6,7 +6,7 @@
     It allows you to add and remove task, once the task is completed.
     Tasks get saved when the app is not in active state.
 
-##Key features that this app has are:
+##Key features of the app:
 
     It allow users to add more details to a task.
     It allows user to call or text to another person in case if one has to reminnd another person about an appointment, task etc.
